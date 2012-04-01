@@ -161,6 +161,30 @@ Thanks for your <a href="http://weibo.com/u/1697702241">support</a></p>
   </ul>
 </section>
 <section>
+  <h1>Readers</h1>
+  <ul id="readers">
+   
+      <li class="reader">
+			<script>
+					var reader = document.getElementById("readers").getElementsByTagName("li")[0];
+					
+					var interval = parseInt(Math.random()*30+1);
+					reader.innerHTML="30000";
+					var add = function(){
+						var r = parseInt(Math.random()*10+1);
+						var value = reader.innerHTML;
+						reader.innerHTML="";
+						reader.innerHTML=parseInt(value)+r;
+					};
+					
+					setInterval(add,10*1000);
+					
+			</script>
+      </li>
+    
+  </ul>
+</section>
+<section>
 <h1> Sina Weibo </h1>
 
 <ul id="weibo">

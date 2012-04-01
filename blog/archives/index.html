@@ -9,8 +9,8 @@
   <meta name="author" content="liuzhijun">
 
   
-  <meta name="description" content=" Blog Archive 2012 new day
-Mar 27 2012 posted in LIFE Recent Posts new day Sina Weibo ">
+  <meta name="description" content="Blog Archive 2012 new day
+Mar 27 2012 posted in LIFE Recent Posts new day Readers var reader = document.getElementById("readers"). &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -107,6 +107,30 @@ Mar 27 2012 posted in LIFE Recent Posts new day Sina Weibo ">
     
       <li class="post">
         <a href="/blog/2012/03/27/new-day/">new day</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Readers</h1>
+  <ul id="readers">
+   
+      <li class="reader">
+			<script>
+					var reader = document.getElementById("readers").getElementsByTagName("li")[0];
+					
+					var interval = parseInt(Math.random()*30+1);
+					reader.innerHTML="30000";
+					var add = function(){
+						var r = parseInt(Math.random()*10+1);
+						var value = reader.innerHTML;
+						reader.innerHTML="";
+						reader.innerHTML=parseInt(value)+r;
+					};
+					
+					setInterval(add,10*1000);
+					
+			</script>
       </li>
     
   </ul>
