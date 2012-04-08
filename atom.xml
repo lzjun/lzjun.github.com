@@ -4,7 +4,7 @@
   <title><![CDATA[lzjun's Blog]]></title>
   <link href="http://lzjun.github.com/atom.xml" rel="self"/>
   <link href="http://lzjun.github.com/"/>
-  <updated>2012-04-08T21:21:24+08:00</updated>
+  <updated>2012-04-08T21:25:43+08:00</updated>
   <id>http://lzjun.github.com/</id>
   <author>
     <name><![CDATA[liuzhijun]]></name>
@@ -18,7 +18,7 @@
     <link href="http://lzjun.github.com/blog/2012/04/08/javascript-data-type/"/>
     <updated>2012-04-08T16:03:00+08:00</updated>
     <id>http://lzjun.github.com/blog/2012/04/08/javascript-data-type</id>
-    <content type="html"><![CDATA[<p><img src="../images/javascript_data_type.png" alert="type"/></p>
+    <content type="html"><![CDATA[<p><img src="http://lzjun.github.com/images/javascript_data_type.png" alert="type"/></p>
 ]]></content>
   </entry>
   
