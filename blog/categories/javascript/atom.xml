@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[lzjun's Blog]]></title>
-  <link href="http://lzjun.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: JavaScript | lzjun's Blog]]></title>
+  <link href="http://lzjun.github.com/blog/categories/javascript/atom.xml" rel="self"/>
   <link href="http://lzjun.github.com/"/>
   <updated>2012-04-08T16:11:58+08:00</updated>
   <id>http://lzjun.github.com/</id>
@@ -19,16 +19,6 @@
     <updated>2012-04-08T16:03:00+08:00</updated>
     <id>http://lzjun.github.com/blog/2012/04/08/javascript-data-type</id>
     <content type="html"><![CDATA[<p><img src="../images/javascript_data_type.png" alert="type"/></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[new day]]></title>
-    <link href="http://lzjun.github.com/blog/2012/03/27/new-day/"/>
-    <updated>2012-03-27T22:40:00+08:00</updated>
-    <id>http://lzjun.github.com/blog/2012/03/27/new-day</id>
-    <content type="html"><![CDATA[<p>Happy New Day!!!
-Thanks for your <a href="http://weibo.com/u/1697702241">support</a></p>
 ]]></content>
   </entry>
   
